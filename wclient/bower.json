@@ -1,0 +1,19 @@
+{
+  "name": "oneflow-spotify-wclient",
+  "version": "0.0.0",
+  "authors": [
+    "Paul Varache <paul.varache@ysance.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-api-urls": "*"
+  }
+}
